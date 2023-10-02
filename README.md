@@ -6,5 +6,6 @@ Utilizando conceitos como:
 - Mock;
 - Generics;
 - Annotations;
+- Reflections
 - Exceptions;
 - Camada de Service e de DAO.
