@@ -8,4 +8,5 @@ Utilizando conceitos como:
 - Annotations;
 - Reflections;
 - Exceptions;
-- Camada de Service e de DAO.
+- Camada de Service e de DAO;
+- Design Patterns.
