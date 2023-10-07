@@ -1,6 +1,6 @@
 # cadastro-cliente-produto
 Sistema de cadastro de cliente e produto em Java. <br />
-Utilizando conceitos como:
+Utilizando:
 - Testes unitários;
 - TDD;
 - Mock;
